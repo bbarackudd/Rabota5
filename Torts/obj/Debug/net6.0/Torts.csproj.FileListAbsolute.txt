@@ -1,0 +1,15 @@
+C:\source\repos\Pract5\Torts\Torts\obj\Debug\net6.0\Torts.csproj.AssemblyReference.cache
+C:\source\repos\Pract5\Torts\Torts\obj\Debug\net6.0\Torts.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Pract5\Torts\Torts\obj\Debug\net6.0\Torts.AssemblyInfoInputs.cache
+C:\source\repos\Pract5\Torts\Torts\obj\Debug\net6.0\Torts.AssemblyInfo.cs
+C:\source\repos\Pract5\Torts\Torts\obj\Debug\net6.0\Torts.csproj.CoreCompileInputs.cache
+C:\source\repos\Pract5\Torts\Torts\bin\Debug\net6.0\Torts.exe
+C:\source\repos\Pract5\Torts\Torts\bin\Debug\net6.0\Torts.deps.json
+C:\source\repos\Pract5\Torts\Torts\bin\Debug\net6.0\Torts.runtimeconfig.json
+C:\source\repos\Pract5\Torts\Torts\bin\Debug\net6.0\Torts.dll
+C:\source\repos\Pract5\Torts\Torts\bin\Debug\net6.0\Torts.pdb
+C:\source\repos\Pract5\Torts\Torts\obj\Debug\net6.0\Torts.dll
+C:\source\repos\Pract5\Torts\Torts\obj\Debug\net6.0\refint\Torts.dll
+C:\source\repos\Pract5\Torts\Torts\obj\Debug\net6.0\Torts.pdb
+C:\source\repos\Pract5\Torts\Torts\obj\Debug\net6.0\Torts.genruntimeconfig.cache
+C:\source\repos\Pract5\Torts\Torts\obj\Debug\net6.0\ref\Torts.dll
